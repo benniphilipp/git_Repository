@@ -20,3 +20,7 @@
 
 #GIT Upload
 1. git push --set-upstream origin {name}
+
+#GIT log
+1. git log
+2. q
