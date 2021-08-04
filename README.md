@@ -24,3 +24,6 @@
 #GIT log
 1. git log
 2. q
+
+#GIT Rückgängig Machen
+1. git checkout {name}
