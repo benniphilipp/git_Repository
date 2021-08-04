@@ -1,5 +1,5 @@
 #GIT Repository erstellen
-1. cd ordner
+1. cd ordner (in richtiger ordner ebene)
 2. git init
 
 #GIT Staus Prüfen
